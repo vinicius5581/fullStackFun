@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_US": "test",
+    "MONGO_PW": "test"
+  }
+}
