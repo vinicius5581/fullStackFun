@@ -1,6 +1,7 @@
 {
   "env": {
     "MONGO_US": "test",
-    "MONGO_PW": "test"
+    "MONGO_PW": "test",
+    "JWT_KEY": "secret"
   }
 }
